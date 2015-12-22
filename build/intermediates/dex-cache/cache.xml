@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cheongwh/Documents/LAB/app/app/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/pre-dexed/debug/android-support-v4-c7efeeb3212b69a5375c43228ff2957862051fde.jar" />
+    </item>
+    <item
+        jar="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/pre-dexed/debug/classes-354df706d7d93ad1368223f80f3261f5d7103bcb.jar" />
+    </item>
+    <item
+        jar="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-aa85ad8b893ed1bf021860f5a46193bcfe33c3a7.jar" />
+    </item>
+    <item
+        jar="/Users/cheongwh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-870e94a104647db098912663acaf682cdbc16749.jar" />
+    </item>
+    <item
+        jar="/Users/cheongwh/Documents/LAB/app/app/libs/SunGraph.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d7ed339b100340d8f56349a4bfbe493f5862b398">
+        <dex dex="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/pre-dexed/debug/SunGraph-54aa28dc10fdeec819314733075fc6956653d23a.jar" />
+    </item>
+    <item
+        jar="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/cheongwh/Documents/LAB/app/app/build/intermediates/pre-dexed/debug/classes-a9690adcf14278ca20e2577b56824aeda2910bbc.jar" />
+    </item>
+
+</items>
